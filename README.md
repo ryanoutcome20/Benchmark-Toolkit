@@ -1,6 +1,6 @@
 # Benchmark-Toolkit
 
-A utility and development library for benchmarking under specific conditions. For an addon version see the [addon branch](https://github.com/ryanoutcome20/Benchmark-Toolkit/tree/addon) of this repository.
+A utility and development library for benchmarking under specific conditions. For an addon version see the [addon branch](https://github.com/ryanoutcome20/Benchmark-Toolkit/tree/addon) of this repository or the [releases tab](https://github.com/ryanoutcome20/Benchmark-Toolkit/releases/).
 
 ## Features
    - **Dynamic Memory & Timing Statistics**: Provides dynamic memory and timing statistics with easy-to-understand output.
